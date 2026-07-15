@@ -1,0 +1,19 @@
+# Local llama.cpp binaries
+/llama.cpp/
+
+# Local GGUF models
+/models/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
