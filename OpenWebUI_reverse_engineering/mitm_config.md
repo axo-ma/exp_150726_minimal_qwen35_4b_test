@@ -155,3 +155,12 @@ http://host.docker.internal:11434
 ```
 
 и остановите mitmweb сочетанием `Ctrl+C`.
+
+### Создать файл `Modelfile` в папке ./models
+
+```
+FROM .\Qwen_Qwen3.5-4B-Q4_K_M.gguf
+```
+
+---
+
